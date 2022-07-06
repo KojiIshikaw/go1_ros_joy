@@ -2,7 +2,7 @@
 
  付属のjoystickを押すと、 それに応じたrosのtopicを流すもの。
  
- legged_sdkでlowlevel制御を用いている。
+ unitree_legged_sdkでのlowlevel制御を用いている。
  
  なぜかhighlevelにするとうまくいかなくなる。（要検証）
 
